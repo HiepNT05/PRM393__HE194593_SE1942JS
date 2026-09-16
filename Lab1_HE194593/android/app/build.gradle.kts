@@ -45,5 +45,5 @@ kotlin {
 }
 
 flutter {
-    source = "../.."
+    source = "app/src"
 }
